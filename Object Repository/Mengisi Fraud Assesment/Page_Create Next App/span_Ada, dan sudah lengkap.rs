@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ada, dan sudah lengkap</name>
+   <tag></tag>
+   <elementGuidId>7bca9948-00dc-45d9-803f-278cde2ba328</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id=':r28:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a894a2c-11a3-49d2-8915-01d18b9d126a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r28:</value>
+      <webElementGuid>74a085ad-40aa-41f5-8735-539f193ad164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative text-foreground select-none text-medium transition-colors motion-reduce:transition-none</value>
+      <webElementGuid>9b3a3fb5-2fee-4cb6-b751-56256375cf78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ada, dan sudah lengkap</value>
+      <webElementGuid>fa58958d-fb7d-4a34-891a-cd5dd55ef338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r28:&quot;)</value>
+      <webElementGuid>a2a6368f-3d67-4b42-8701-1f83b0acb303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id=':r28:']</value>
+      <webElementGuid>47137154-5664-48d4-9a6c-21c74991df63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-aria6291184222-:r22:']/div/label/div[2]/span</value>
+      <webElementGuid>1bc52dc9-a40e-4e40-b458-844629864a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada'])[1]/following::span[3]</value>
+      <webElementGuid>58942c98-2d5f-441a-9609-b49917f79270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada, belum lengkap'])[1]/following::span[6]</value>
+      <webElementGuid>15b7ec98-11ba-4e4d-888e-f3be9973bbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada, belum lengkap'])[2]/preceding::span[3]</value>
+      <webElementGuid>613a1e5d-7bdb-4c3a-9ad4-763706663857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada'])[2]/preceding::span[6]</value>
+      <webElementGuid>9df98dfa-b533-4a9e-95e2-2cf4a1d1801f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/label/div[2]/span</value>
+      <webElementGuid>4ff20070-ee28-4842-a076-b7dd78dcc115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = ':r28:' and (text() = 'Ada, dan sudah lengkap' or . = 'Ada, dan sudah lengkap')]</value>
+      <webElementGuid>bcc0d5ab-68b3-402b-929b-667d0debc495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

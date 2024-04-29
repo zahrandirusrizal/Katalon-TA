@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan apabila register dengan Email Instansi yang sama akan menampilkan pesan gagal</description>
+   <name>TC-ADM-006</name>
+   <tag>negative</tag>
+   <comment></comment>
+   <testCaseGuid>60f5827c-1b32-4dfe-a35d-94e4bfc9bab4</testCaseGuid>
+</TestCaseEntity>

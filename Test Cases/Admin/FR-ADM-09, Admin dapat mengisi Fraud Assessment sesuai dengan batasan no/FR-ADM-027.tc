@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melakukan proses fraud assesment dengan seluruh pilihan jawaban &quot;Ada, dan sudah lengkap&quot;</description>
+   <name>FR-ADM-027</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>f556cde9-b651-436e-a593-42a4b016d6b2</testCaseGuid>
+</TestCaseEntity>

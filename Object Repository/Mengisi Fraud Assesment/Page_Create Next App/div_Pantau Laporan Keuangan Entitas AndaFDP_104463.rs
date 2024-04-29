@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pantau Laporan Keuangan Entitas AndaFDP_104463</name>
+   <tag></tag>
+   <elementGuidId>ddd317f0-c071-4f4a-8dd6-4c6984658da8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hero</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hero']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd8fbdc1-9c0e-4647-909d-5c208fe81d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-5 content-center justify-items-stretch hero-container px-6 max-w-screen-xl mx-auto</value>
+      <webElementGuid>b604c0c2-e877-496f-83fb-833c8efca391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hero</value>
+      <webElementGuid>38ed8c8f-81fc-48dc-b1a1-dadfa1665959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pantau Laporan Keuangan Entitas AndaFDP Merupakan protokol pencegahan Fraud yang digunakan oleh setiap entitas, baik yang berorientasi profit maupun non-profit.Dalam protokol tersebut terdapat beberapa dimensi dan indikator pencegahan fraud yang wajib dilakukan entitas dan tersedia di entitas, anda dapat mengukur tingkat maturity pencegahan fraud di lingkungan anda, dengan mempergunakan FDP.FDP Juga menyediakan layanan pendeteksi kecurangan pada Laporan Keuangan menggunakan Beneish M-Score Calculator.</value>
+      <webElementGuid>455cfb8e-b214-429a-823d-a4b5194e5154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@id=&quot;hero&quot;]</value>
+      <webElementGuid>30e15a17-7272-4f41-ac95-0e625b350628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='hero']</value>
+      <webElementGuid>2fa93765-d780-48c0-ac7c-90a8a3ba0f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home']/div</value>
+      <webElementGuid>52110710-977a-45ff-9cd0-c8bb5f66e0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[4]</value>
+      <webElementGuid>1f07c1ea-406b-4c2a-a088-27ff6c195ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[4]</value>
+      <webElementGuid>b4c5725b-c43c-4161-8545-02012d28bb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Lebih Detail'])[1]/preceding::div[3]</value>
+      <webElementGuid>8ff435c2-e03d-4580-9cf2-d53f9d55c217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Lebih Detail'])[2]/preceding::div[6]</value>
+      <webElementGuid>35fe5a0c-7f97-40e6-872c-08588c259828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div</value>
+      <webElementGuid>9f53795c-d42c-402b-9890-9e0725e0a763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'hero' and (text() = 'Pantau Laporan Keuangan Entitas AndaFDP Merupakan protokol pencegahan Fraud yang digunakan oleh setiap entitas, baik yang berorientasi profit maupun non-profit.Dalam protokol tersebut terdapat beberapa dimensi dan indikator pencegahan fraud yang wajib dilakukan entitas dan tersedia di entitas, anda dapat mengukur tingkat maturity pencegahan fraud di lingkungan anda, dengan mempergunakan FDP.FDP Juga menyediakan layanan pendeteksi kecurangan pada Laporan Keuangan menggunakan Beneish M-Score Calculator.' or . = 'Pantau Laporan Keuangan Entitas AndaFDP Merupakan protokol pencegahan Fraud yang digunakan oleh setiap entitas, baik yang berorientasi profit maupun non-profit.Dalam protokol tersebut terdapat beberapa dimensi dan indikator pencegahan fraud yang wajib dilakukan entitas dan tersedia di entitas, anda dapat mengukur tingkat maturity pencegahan fraud di lingkungan anda, dengan mempergunakan FDP.FDP Juga menyediakan layanan pendeteksi kecurangan pada Laporan Keuangan menggunakan Beneish M-Score Calculator.')]</value>
+      <webElementGuid>2d6bc428-d8d7-44d0-a44a-ead026a00595</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

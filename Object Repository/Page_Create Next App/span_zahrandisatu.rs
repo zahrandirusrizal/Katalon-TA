@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_zahrandisatu</name>
+   <tag></tag>
+   <elementGuidId>45b0ffa1-0200-45aa-b66b-fd8be410137c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='react-aria7634279426-:rk:']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-small.text-inherit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2691fa1d-f805-44e0-9b43-3188ba723355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-small text-inherit</value>
+      <webElementGuid>4b1f7e70-099c-43ff-b124-295024a142bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>@zahrandisatu</value>
+      <webElementGuid>81c57c6d-f523-43fc-8308-fea16f06b4ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-aria7634279426-:rk:&quot;)/div[@class=&quot;inline-flex flex-col items-start&quot;]/span[@class=&quot;text-small text-inherit&quot;]</value>
+      <webElementGuid>0cbacf72-1c12-4653-b8ab-4e8e00534b9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='react-aria7634279426-:rk:']/div/span</value>
+      <webElementGuid>5127df7b-d7ab-4ac3-af21-b1ee47c6735d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Login'])[1]/following::span[2]</value>
+      <webElementGuid>3a1e344b-f4fa-43d8-b296-6e24276173a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Staff'])[1]/following::span[2]</value>
+      <webElementGuid>7c0f89b6-9567-4f88-be6f-7acb171b2254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zsatu@yopmail.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>5dbda2bb-46aa-4537-85df-839cd5c06b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Fraud Assesment'])[1]/preceding::span[2]</value>
+      <webElementGuid>7222c14c-cc50-471c-8088-1526e839600c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@zahrandisatu']/parent::*</value>
+      <webElementGuid>f97728f1-2ea3-4f6d-86ee-585c3fa35418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>31c63b89-206f-4a5a-953b-d03043170338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '@zahrandisatu' or . = '@zahrandisatu')]</value>
+      <webElementGuid>61a10069-109e-499c-ab07-0435378fad69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
