@@ -76,6 +76,8 @@ String partialTextToVerify = 'Berhasil'
 
 assert toastMessageText.contains(partialTextToVerify)
 
+System.out.println(randomUsername)
+
 WebUI.closeBrowser( // Generate random characters and append them to the name
     ) // Generate a random phone number
 // Generate random digits for the phone number

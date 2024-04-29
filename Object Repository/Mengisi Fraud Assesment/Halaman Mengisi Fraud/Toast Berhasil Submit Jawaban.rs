@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Berhasil</name>
+   <name>Toast Berhasil Submit Jawaban</name>
    <tag></tag>
    <elementGuidId>c2964481-c458-40c6-bca7-8fc39816f89b</elementGuidId>
    <selectorCollection>
@@ -10,20 +10,24 @@
          <value>ol > li</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//li[(text() = 'Berhasil' or . = 'Berhasil')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::li[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>5fb7aadd-dac5-45da-a075-487dfa7eecc4</webElementGuid>
+      <webElementGuid>1f1b0cff-40b3-4587-9ae6-cf41e3b0cb7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>26a38b48-1ec4-4070-a58f-cb1a4150517e</webElementGuid>
+      <webElementGuid>bb5ea725-2599-485f-8ff4-669215e727b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>aria-atomic</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>22694890-852b-42ba-aefc-5cd7ecf9e5fc</webElementGuid>
+      <webElementGuid>3c745f61-a622-40a3-87d1-7ea6c85d69e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>f3e331ff-b1b3-4bc4-8481-929458061645</webElementGuid>
+      <webElementGuid>692ade21-08c1-46c9-8f0a-ddf8bdb3daed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bccfc4b8-4129-4648-86da-3ea118886e01</webElementGuid>
+      <webElementGuid>2b1f476c-476c-45cd-bc4d-abeffdc2252a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>data-styled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f731b3d3-9e67-4c6a-b6b6-a56cea655527</webElementGuid>
+      <webElementGuid>367c9cda-dfea-4973-910a-3dd7c3830c05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>data-mounted</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>16e17120-db7e-458f-b35d-3147eb9f5ea9</webElementGuid>
+      <webElementGuid>c5bbc09b-bf57-44d7-9426-9b9c0d7653f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>data-promise</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f39e6165-c47f-46e9-a875-4da8b245ae12</webElementGuid>
+      <webElementGuid>bb98e693-b546-4198-a46b-6b04438fdecf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>data-removed</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>68abaece-4ad3-425c-a8ba-63c45fc52650</webElementGuid>
+      <webElementGuid>f10c163a-dadd-4f92-a725-c99a40c55d11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>data-visible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a6f7584e-3692-4244-9aaf-50716e5479b7</webElementGuid>
+      <webElementGuid>34d7a335-2846-489f-b987-bfb6139c7513</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>data-y-position</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>1a7d1380-0e66-497d-8879-3ecdb17def43</webElementGuid>
+      <webElementGuid>b0544ee3-76b7-4cd2-8869-516788890b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>data-x-position</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>76958db4-c4b3-4529-80ab-0bc0b8cba920</webElementGuid>
+      <webElementGuid>5e8c69b8-f7a2-4036-8ba0-8b8d0cab3455</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>29013117-f79e-4199-addb-20fdadd1382b</webElementGuid>
+      <webElementGuid>8b75c424-798d-4e3a-a710-7cf96c979547</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>data-front</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e5a5b258-bc03-4ffc-a80d-81dc572327cb</webElementGuid>
+      <webElementGuid>3dc98168-e57b-4dad-b08e-52f1660f6f64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,7 +139,7 @@
       <name>data-swiping</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>37cdbf3c-a843-4dd5-89cb-cd7997e2cd02</webElementGuid>
+      <webElementGuid>e90fa997-4559-4760-975b-cd8145ef2796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -143,7 +147,7 @@
       <name>data-dismissible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8db36c53-6f26-4981-932e-ed28fff496cf</webElementGuid>
+      <webElementGuid>a0df4e1e-39c6-420f-b8a1-c6fd53b056a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -151,7 +155,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>success</value>
-      <webElementGuid>43db5916-4129-4a44-8ccc-07117c42cb3a</webElementGuid>
+      <webElementGuid>bea40d87-98e8-449d-8387-f1b7e8bf5bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -159,7 +163,7 @@
       <name>data-swipe-out</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a128e36f-8682-4a8f-8c7b-076d1b6ef575</webElementGuid>
+      <webElementGuid>e89f133f-4d6a-4dfb-8f00-5cd09f44d5fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -167,7 +171,7 @@
       <name>data-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3c0e3c18-6ae0-4882-b3cd-b208e781b94e</webElementGuid>
+      <webElementGuid>86562818-b22c-435f-8e0b-1ecb3aabaeb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -175,7 +179,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Berhasil</value>
-      <webElementGuid>9b68e898-c326-4b4a-9a1f-b82aa0e04417</webElementGuid>
+      <webElementGuid>e7d4d234-b6ed-4cf4-b535-1df112c37d02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -183,7 +187,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/section[1]/ol[1]/li[1]</value>
-      <webElementGuid>e894644a-4a05-4dc2-aeed-234a11a5d13a</webElementGuid>
+      <webElementGuid>300bc200-5c20-41ee-8aff-69eb9bcf5efa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -191,7 +195,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::li[1]</value>
-      <webElementGuid>fdecef55-7de6-4276-9436-3da5305f5bb0</webElementGuid>
+      <webElementGuid>2c3d79ae-a395-421a-99d9-7620c263f314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -199,7 +203,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada'])[10]/following::li[1]</value>
-      <webElementGuid>27c21cd2-25e3-4dc6-a200-4dbd8373cd37</webElementGuid>
+      <webElementGuid>8a221d2f-db35-4aa7-be37-214b7d5b1567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -207,7 +211,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ol/li</value>
-      <webElementGuid>e03aaea7-1274-4edc-a035-bbdb0aeba680</webElementGuid>
+      <webElementGuid>cb8bf17a-bba8-44e1-990e-f54bf7617de2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -215,6 +219,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Berhasil' or . = 'Berhasil')]</value>
-      <webElementGuid>2abf49fa-c1fb-4a6f-8277-b5c204f2f087</webElementGuid>
+      <webElementGuid>614054d0-057b-4b75-9632-b24ed76f432f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

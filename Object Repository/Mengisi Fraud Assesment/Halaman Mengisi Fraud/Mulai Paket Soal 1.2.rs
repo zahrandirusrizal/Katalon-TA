@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Mulai</name>
+   <name>Mulai Paket Soal 1.2</name>
    <tag></tag>
-   <elementGuidId>c89dd723-5e83-4657-ad1a-1d8ecf0a3903</elementGuidId>
+   <elementGuidId>46a541b7-2b68-418e-9a14-1be4be40146d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Mulai')]</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/dashboard/fraud-assesment/create/1/1.2' and (text() = 'Mulai' or . = 'Mulai')]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/dashboard/fraud-assesment/create/1/1.1' and (text() = 'Mulai' or . = 'Mulai')]</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Mulai')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8fc3957e-e5f7-4faa-99c9-f929d639432d</webElementGuid>
+      <webElementGuid>65d0118c-d2e6-4934-977a-25b14e3ab689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-unit-3 min-w-unit-16 h-unit-8 text-tiny gap-unit-2 rounded-small [&amp;>svg]:max-w-[theme(spacing.unit-8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-primary text-primary-foreground data-[hover=true]:opacity-hover</value>
-      <webElementGuid>80840d90-1ba6-4967-8b43-9a73bd661083</webElementGuid>
+      <webElementGuid>350fb43d-68b9-407e-b659-673a2da09d9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a953659a-f906-46ce-9a70-720a53b4d54d</webElementGuid>
+      <webElementGuid>cfe330c7-b91b-440c-9f9b-575c57979c4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,15 +50,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>44c8a96a-698b-447b-a925-6fc37875eeda</webElementGuid>
+      <webElementGuid>525ae0db-b357-44ab-a43e-5f6188eae5c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/dashboard/fraud-assesment/create/1/1.1</value>
-      <webElementGuid>8567a873-c182-439b-936a-c74be367368c</webElementGuid>
+      <value>/dashboard/fraud-assesment/create/1/1.2</value>
+      <webElementGuid>9a932980-f8a8-4682-88c4-3d72d165b17d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>data-hover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8ec47df2-faa2-44a1-815c-1d124c01c770</webElementGuid>
+      <webElementGuid>c224c11e-4bc4-4980-8591-943da1881c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>data-focus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e02a8e11-ad5d-4e5c-b8ea-0049a976f6cd</webElementGuid>
+      <webElementGuid>05511400-f68a-4313-a656-e82e5d3d18f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,15 +82,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Mulai</value>
-      <webElementGuid>3043dcb1-0d62-47d9-8bfe-4ee02f69fead</webElementGuid>
+      <webElementGuid>5b162847-5aad-4a7d-80cc-ee64b5e0b6dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none&quot;]/div[2]/div[@class=&quot;relative flex w-full p-3 flex-auto flex-col place-content-inherit align-items-inherit h-auto break-words text-left overflow-y-auto subpixel-antialiased&quot;]/div[@class=&quot;flex items-center justify-between ml-4&quot;]/a[@class=&quot;z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-unit-3 min-w-unit-16 h-unit-8 text-tiny gap-unit-2 rounded-small [&amp;>svg]:max-w-[theme(spacing.unit-8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-primary text-primary-foreground data-[hover=true]:opacity-hover&quot;]</value>
-      <webElementGuid>72d79b49-15d6-40e2-91f3-cc688dc6be47</webElementGuid>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none&quot;]/div[3]/div[@class=&quot;relative flex w-full p-3 flex-auto flex-col place-content-inherit align-items-inherit h-auto break-words text-left overflow-y-auto subpixel-antialiased&quot;]/div[@class=&quot;flex items-center justify-between ml-4&quot;]/a[@class=&quot;z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-unit-3 min-w-unit-16 h-unit-8 text-tiny gap-unit-2 rounded-small [&amp;>svg]:max-w-[theme(spacing.unit-8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-primary text-primary-foreground data-[hover=true]:opacity-hover&quot;]</value>
+      <webElementGuid>3689ab40-8c1c-4df1-9296-568f270fa16c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,23 +98,23 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mulai')]</value>
-      <webElementGuid>1578386a-28c1-4444-96db-0862df18eac0</webElementGuid>
+      <webElementGuid>ae839495-04c7-4605-8812-9564d48765fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isi Fraud Assesment'])[1]/following::a[1]</value>
-      <webElementGuid>80734d2b-7da5-4e97-9570-09cbe2899a5d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::a[1]</value>
+      <webElementGuid>06e55050-4195-4b9c-b0fb-0769e51e057b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Fraud Assesment'])[1]/following::a[2]</value>
-      <webElementGuid>8b442f4b-bf33-4000-ae35-812bfa708750</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isi Fraud Assesment'])[1]/following::a[2]</value>
+      <webElementGuid>0d1a9058-620f-4b29-8885-1116a1cbfd30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[2]/preceding::a[1]</value>
-      <webElementGuid>70726c84-222c-4aca-bfe9-3bfd4b7985b2</webElementGuid>
+      <webElementGuid>0a475317-7d28-41bb-84ee-0a35c10b9cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[3]/preceding::a[1]</value>
-      <webElementGuid>a2f05127-474a-4917-a425-01c4911774f6</webElementGuid>
+      <webElementGuid>e9f21130-f2ff-48aa-889a-6142e8aa9544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,30 +138,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mulai']/parent::*</value>
-      <webElementGuid>89292680-e760-4592-848e-8a7b0b2a3045</webElementGuid>
+      <webElementGuid>30cd446b-cf2a-46ec-92b3-deb51048d286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/dashboard/fraud-assesment/create/1/1.1')]</value>
-      <webElementGuid>8301c246-c8d9-41ef-b4a4-46f8ae45c081</webElementGuid>
+      <value>//a[contains(@href, '/dashboard/fraud-assesment/create/1/1.2')]</value>
+      <webElementGuid>b1da72f2-eac6-407d-8303-9eebc6fc310e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/a</value>
-      <webElementGuid>e08f7161-e180-4af2-a8ce-4b98892c337c</webElementGuid>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>4ceb01df-aae4-4ca6-a278-ffc4e076d17c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/dashboard/fraud-assesment/create/1/1.1' and (text() = 'Mulai' or . = 'Mulai')]</value>
-      <webElementGuid>178a0803-f928-4d10-8787-74fce085a265</webElementGuid>
+      <value>//a[@href = '/dashboard/fraud-assesment/create/1/1.2' and (text() = 'Mulai' or . = 'Mulai')]</value>
+      <webElementGuid>40487f83-63cf-431e-b35b-ebc9df2df05d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

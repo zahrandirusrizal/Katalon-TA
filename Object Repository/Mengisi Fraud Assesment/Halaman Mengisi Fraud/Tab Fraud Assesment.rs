@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Fraud Assesment</name>
+   <name>Tab Fraud Assesment</name>
    <tag></tag>
    <elementGuidId>71b075ee-d680-4c58-bae9-70e202c254fa</elementGuidId>
    <selectorCollection>

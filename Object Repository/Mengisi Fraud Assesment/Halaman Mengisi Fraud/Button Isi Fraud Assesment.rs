@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Isi Fraud Assesment</name>
+   <name>Button Isi Fraud Assesment</name>
    <tag></tag>
    <elementGuidId>ea7117ec-fb4f-4f41-ba7a-db1b443b0afb</elementGuidId>
    <selectorCollection>

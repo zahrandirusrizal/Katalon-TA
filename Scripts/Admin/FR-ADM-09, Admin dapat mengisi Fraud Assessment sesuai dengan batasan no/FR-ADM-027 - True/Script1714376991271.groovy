@@ -20,296 +20,312 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Admin/FR-ADM-02. FR-ADM-04, Admin harus melakukan login di halaman login untuk mendapatkan hak akses/TC-ADM-008A'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Dashboard/a_Fraud Assesment'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Tab Fraud Assesment'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Isi Fraud Assesment'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Isi Fraud Assesment'))
 
 WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Isi Fraud Assesment'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Isi Fraud Assesment'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Mulai Paket Soal 1.1'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
 
-WebUI.click(findTestObject('Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
+WebUI.uploadFile(findTestObject('Mengisi Fraud Assesment/Upload Bukti/Upload Bukti Nomor 1'), 'C:\\Users\\Pongo\\Downloads\\Documents\\paper15.pdf')
 
-WebUI.click(findTestObject('Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
+WebUI.delay(300)
 
-WebUI.click(findTestObject('Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
 
-WebUI.click(findTestObject('Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'), 
+    10)
+
+// Verify toast message content
+String toastMessageText = WebUI.getText(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+String expectedMessage = 'Berhasil'
+
+WebUI.verifyMatch(toastMessageText, expectedMessage, false)
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Mulai Paket Soal 1.2'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5_6'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5_6_7'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5_6_7_8'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 02 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 11 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13_14'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Toast Berhasil Submit Jawaban'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5_6_7_8_9'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 01 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 06 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 09 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 10 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 11 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13_14'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/button_aliceexample.com_z-0 group relative _e20bf1'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/svg_Mulai_z-10 opacity-0 group-data-selecte_f03236'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/a_Mulai_1_2_3_4_5_6_7_8_9'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/span_aliceexample.com_relative inline-flex _456ff8'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/span_Belum ada_relative inline-flex items-c_0dc7b4'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 03 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 04 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 05 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/div_7. Apakah terdapat legal officerAda, da_6ae440'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 07 - Ada, dan sudah lengkap'))
+
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Nomor 08 - Ada, dan sudah lengkap'))
 
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5_6'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5_6_7'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5_6_7_8'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 02 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 11 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13_14'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/li_Berhasil'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5_6_7_8_9'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 01 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 06 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 09 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 10 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 11 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/label_Ada, dan sudah lengkap_1_2_3_4_5_6_7_8_9_10_11_12_13_14'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_aliceexample.com_z-0 group relative _e20bf1'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/svg_Mulai_z-10 opacity-0 group-data-selecte_f03236'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/a_Mulai_1_2_3_4_5_6_7_8_9'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/span_aliceexample.com_relative inline-flex _456ff8'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/span_Belum ada_relative inline-flex items-c_0dc7b4'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 03 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 04 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 05 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/div_7. Apakah terdapat legal officerAda, da_6ae440'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 07 - Ada, dan sudah lengkap'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/Nomor 08 - Ada, dan sudah lengkap'))
-
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
@@ -320,15 +336,11 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/Button Submit Jawaban Soal'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/button_aliceexample.com_z-0 group relative _e20bf1'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/span_Saya setuju dengan pernyataan diatas'))
 
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_aliceexample.com_z-0 group relative _e20bf1'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/span_Saya setuju dengan pernyataan diatas'))
-
-WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Page_Create Next App/button_Submit_1'))
+WebUI.click(findTestObject('Object Repository/Mengisi Fraud Assesment/Halaman Mengisi Fraud/button_Submit_1'))
 

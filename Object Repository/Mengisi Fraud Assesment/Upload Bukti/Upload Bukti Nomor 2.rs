@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload Bukti Nomor 2</name>
+   <tag></tag>
+   <elementGuidId>426c9c40-361d-4801-bab0-dfe8e94574a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='file'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c17c94cf-385b-4063-91bc-81ea3019e8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.pdf</value>
+      <webElementGuid>98abcf78-5238-4ce3-8a17-636bf91f4018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border file:hidden px-2 py-1 rounded-md text-sm</value>
+      <webElementGuid>d6fb4d97-76d5-48e1-9cf6-5ba05ad3220e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>015264a3-2f7a-4f8f-b8fc-7e77a3b81616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;p-3&quot;]/form[1]/div[2]/div[@class=&quot;flex w-full justify-between my-3 items-center&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/input[@class=&quot;border file:hidden px-2 py-1 rounded-md text-sm&quot;]</value>
+      <webElementGuid>1ef93c34-e233-473e-8e7a-8e86e0cfd718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='file'])[2]</value>
+      <webElementGuid>da9433c9-5dbb-4405-924f-e3cbd80bc995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/input</value>
+      <webElementGuid>ea0a72a4-09ec-4209-bf04-6d88a8c57c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>636d6ee1-e56f-4ed2-bdb7-0a4c3c9980ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
