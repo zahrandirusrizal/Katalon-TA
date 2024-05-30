@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Memastikan dapat register menggunakan data yang benar</description>
-   <name>TC-ADM-008A</name>
-   <tag>positive</tag>
-   <comment></comment>
-   <testCaseGuid>23bddeb2-e567-4277-a105-7eb6f761d2a6</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat merubah isi jawaban pada paket soal 3.2</description>
+   <name>TC-ADMFR10-006</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>68430e4c-f0dd-4a98-8882-54455eabe2fb</testCaseGuid>
+</TestCaseEntity>

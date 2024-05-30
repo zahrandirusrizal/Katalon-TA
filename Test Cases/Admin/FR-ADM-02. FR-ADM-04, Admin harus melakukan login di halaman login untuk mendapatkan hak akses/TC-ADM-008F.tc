@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Memastikan apabila login dan mengisi password &lt;8 character</description>
-   <name>TC-ADM-008F</name>
-   <tag>negative</tag>
-   <comment></comment>
-   <testCaseGuid>95395a06-ab25-4783-9161-a100e18bd6de</testCaseGuid>
-</TestCaseEntity>

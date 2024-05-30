@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melakukan proses fraud assesment dengan seluruh pilihan jawaban &quot;Ada, dan sudah lengkap&quot;</description>
+   <name>TC-ADM-027-SUBMIT</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>ed7c5344-082e-4666-a608-c9c4ec872dc3</testCaseGuid>
+</TestCaseEntity>

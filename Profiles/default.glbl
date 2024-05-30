@@ -9,4 +9,54 @@
       <initValue>'https://fe-fraud.vercel.app'</initValue>
       <name>Weblink</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Admin</description>
+      <initValue>'adminperusahaan'</initValue>
+      <name>adminUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Admin</description>
+      <initValue>'RAIVpflpDOg='</initValue>
+      <name>adminPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Superadmin</description>
+      <initValue>'username'</initValue>
+      <name>superAdminUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Superadmin</description>
+      <initValue>'password'</initValue>
+      <name>superAdminPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Staff</description>
+      <initValue>'bob_marley'</initValue>
+      <name>staffUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Staff</description>
+      <initValue>'WMj/tArCWnNJGjdg5bhwashtiYIwDOTlTEkMiIgqYKo='</initValue>
+      <name>staffPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Reviewer</description>
+      <initValue>'emma_jones'</initValue>
+      <name>reviewerUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dummy Account for Reviewer</description>
+      <initValue>'password'</initValue>
+      <name>reviewerPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>File Path Link</description>
+      <initValue>'C:\\Users\\Pongo\\Downloads\\Documents\\scopusresults.pdf'</initValue>
+      <name>filePath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test.pdf'</initValue>
+      <name>fileName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin gagal mendaftarkan akun staff atau reviewer dengan :&#xd;
+Nomor Telepon Tidak Valid&#xd;
+Field lain terisi dengan data valid maupun kosong</description>
+   <name>TC-ADMFR05-004</name>
+   <tag>negative</tag>
+   <comment></comment>
+   <testCaseGuid>cfd5582d-5822-4f26-9f9a-349c09c61e8c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat menambahkan Akun Staff</description>
+   <name>TC-ADMFR05-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>abb68b83-2e21-4d59-9b8a-7c530683f879</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melihat list akun staff yang terdaftar</description>
+   <name>TC-ADMFR06-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>a0b4814b-5355-4c6f-8ccc-8bacb99bce4e</testCaseGuid>
+</TestCaseEntity>

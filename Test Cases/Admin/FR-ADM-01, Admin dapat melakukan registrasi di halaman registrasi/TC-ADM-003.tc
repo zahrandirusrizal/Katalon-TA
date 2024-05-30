@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Memastikan apabila register dengan No. Telp Pendaftar yang sama akan menampilkan pesan gagal</description>
-   <name>TC-ADM-003</name>
-   <tag>negative</tag>
-   <comment></comment>
-   <testCaseGuid>e5518cc7-b81c-453a-b674-df829b5dc335</testCaseGuid>
-</TestCaseEntity>

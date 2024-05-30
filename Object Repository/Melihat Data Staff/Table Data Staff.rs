@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table Data Staff</name>
+   <tag></tag>
+   <elementGuidId>42406d94-31c8-4934-bbc2-1856d8e02aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'react-aria8480270419-:ra:' and (text() = 'NAMA AKUNEMAILROLEAKSIRamarama@gmail.comstaffAktifNonaktifAktif,Reva Doni Puspitarevadonipuspita001@yopmail.comreviewerAktifNonaktifAktif,tttfuwviwyobikeoamvi@yopmail.comstaffAktifNonaktifNonaktif,Testing satutesting.satu@gmail.comreviewerAktifNonaktifNonaktif,Bob Marleybob@example.comstaffAktifNonaktifAktif,' or . = 'NAMA AKUNEMAILROLEAKSIRamarama@gmail.comstaffAktifNonaktifAktif,Reva Doni Puspitarevadonipuspita001@yopmail.comreviewerAktifNonaktifAktif,tttfuwviwyobikeoamvi@yopmail.comstaffAktifNonaktifNonaktif,Testing satutesting.satu@gmail.comreviewerAktifNonaktifNonaktif,Bob Marleybob@example.comstaffAktifNonaktifAktif,')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>cc63de68-d9dc-4363-b5b1-f5b41ef6943d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Table Data Staff</value>
+      <webElementGuid>2076463d-0981-4b97-b047-13ef4ec8c8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-aria8480270419-:ra:</value>
+      <webElementGuid>b20bc032-ef27-4e51-bda0-e9f5717a5415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>grid</value>
+      <webElementGuid>0009823f-fc34-43a2-a452-8ffc30effaf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>04b1c272-19bd-42fd-9ecd-2eef003d6428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-full h-auto table-auto w-full</value>
+      <webElementGuid>125e3e0d-9088-4814-8f6f-ffc1c10ff21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NAMA AKUNEMAILROLEAKSIRamarama@gmail.comstaffAktifNonaktifAktif,Reva Doni Puspitarevadonipuspita001@yopmail.comreviewerAktifNonaktifAktif,tttfuwviwyobikeoamvi@yopmail.comstaffAktifNonaktifNonaktif,Testing satutesting.satu@gmail.comreviewerAktifNonaktifNonaktif,Bob Marleybob@example.comstaffAktifNonaktifAktif,</value>
+      <webElementGuid>543e2a8b-4979-4f28-9f7b-18fafcc1d9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-aria8480270419-:ra:&quot;)</value>
+      <webElementGuid>fbdd847b-31de-4cbf-bd13-2b199cdc1bf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//table[@id='react-aria8480270419-:ra:']</value>
+      <webElementGuid>79792063-9677-41cd-9364-61e99b1af21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Akun'])[1]/following::table[1]</value>
+      <webElementGuid>57dc863b-bf9c-4b17-877d-57cf855a990a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Akun'])[1]/following::table[1]</value>
+      <webElementGuid>e57b504b-6c00-4e87-bd8c-9272590b2af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table</value>
+      <webElementGuid>04267a2d-a5e9-40c2-b1ea-a603c32ffe31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[@id = 'react-aria8480270419-:ra:' and (text() = 'NAMA AKUNEMAILROLEAKSIRamarama@gmail.comstaffAktifNonaktifAktif,Reva Doni Puspitarevadonipuspita001@yopmail.comreviewerAktifNonaktifAktif,tttfuwviwyobikeoamvi@yopmail.comstaffAktifNonaktifNonaktif,Testing satutesting.satu@gmail.comreviewerAktifNonaktifNonaktif,Bob Marleybob@example.comstaffAktifNonaktifAktif,' or . = 'NAMA AKUNEMAILROLEAKSIRamarama@gmail.comstaffAktifNonaktifAktif,Reva Doni Puspitarevadonipuspita001@yopmail.comreviewerAktifNonaktifAktif,tttfuwviwyobikeoamvi@yopmail.comstaffAktifNonaktifNonaktif,Testing satutesting.satu@gmail.comreviewerAktifNonaktifNonaktif,Bob Marleybob@example.comstaffAktifNonaktifAktif,')]</value>
+      <webElementGuid>1ed8b7fe-1daf-4904-8695-3c70bea137af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

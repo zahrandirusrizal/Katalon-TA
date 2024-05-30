@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat melakukan proses fraud assesment dengan mengisi paket soal 2.1 dengan seluruh jawaban &quot;Ada, dan sudah lengkap&quot; beserta file dari seluruh soal yang diperlukan</description>
+   <name>FR-ADM-027AC</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>b3084e2d-74fd-4723-80a8-fad18d331efe</testCaseGuid>
+</TestCaseEntity>

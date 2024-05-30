@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin gagal mendaftarkan akun staff atau reviewer dengan :&#xd;
+Username Tidak Valid&#xd;
+Field lain terisi dengan data valid maupun kosong</description>
+   <name>TC-ADMFR05-006</name>
+   <tag>negative</tag>
+   <comment></comment>
+   <testCaseGuid>d2e78b45-6bee-4b19-8d8e-a8fc47db08c0</testCaseGuid>
+</TestCaseEntity>

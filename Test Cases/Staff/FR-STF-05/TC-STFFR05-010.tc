@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat merubah isi jawaban pada paket soal 6.1</description>
+   <name>TC-STFFR05-010</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>a1ad7950-54e6-4945-8659-d3de6cc007fe</testCaseGuid>
+</TestCaseEntity>

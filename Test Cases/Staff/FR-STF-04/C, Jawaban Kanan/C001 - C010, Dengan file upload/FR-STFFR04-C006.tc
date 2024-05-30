@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat melakukan proses fraud assesment dengan mengisi paket soal 3.2 dengan seluruh jawaban &quot;Belum ada&quot; beserta file dari seluruh soal yang diperlukan</description>
+   <name>FR-STFFR04-C006</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>d0aa9d7d-b79d-4262-8f23-b3385c30b992</testCaseGuid>
+</TestCaseEntity>
