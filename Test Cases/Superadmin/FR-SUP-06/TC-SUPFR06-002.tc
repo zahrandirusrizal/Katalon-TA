@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat merubah baris per halaman yang ditampilkan pada list akun staff yang terdaftar</description>
+   <name>TC-SUPFR06-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>8063962c-1055-4258-9f11-7c1289fc396b</testCaseGuid>
+</TestCaseEntity>

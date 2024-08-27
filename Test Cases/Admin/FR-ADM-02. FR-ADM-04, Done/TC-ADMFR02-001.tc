@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Memastikan dapat register menggunakan data yang benar</description>
+   <description>Memastikan dapat login sebagai Admin</description>
    <name>TC-ADMFR02-001</name>
    <tag>positive</tag>
    <comment></comment>

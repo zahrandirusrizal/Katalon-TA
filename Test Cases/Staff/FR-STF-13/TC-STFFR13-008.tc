@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat berpindah halaman pada tabel riwayat aktivitas</description>
+   <name>TC-STFFR13-008</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>289f7b14-8b13-4a1d-8aa5-8acaf8d06bb0</testCaseGuid>
+</TestCaseEntity>

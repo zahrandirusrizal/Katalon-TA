@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melakukan Fraud Detection dan menghasilkan Beneish M-Score > -2.22</description>
+   <name>TC-ADMFR14-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>b9d4936e-49eb-4c32-a284-8b989254e6ec</testCaseGuid>
+</TestCaseEntity>

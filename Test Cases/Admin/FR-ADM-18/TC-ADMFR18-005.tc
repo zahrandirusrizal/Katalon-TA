@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat filter berdasarkan role &quot;Staff&quot;</description>
+   <name>TC-ADMFR18-005</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>fbe88227-66c0-4b20-8570-00d3095dcd6c</testCaseGuid>
+</TestCaseEntity>

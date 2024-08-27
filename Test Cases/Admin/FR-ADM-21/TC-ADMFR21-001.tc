@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin dapat melakukan logout untuk mengeluarkan akun</description>
+   <name>TC-ADMFR21-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>d6a15fe4-9375-4a8b-86d5-a033db0cd615</testCaseGuid>
+</TestCaseEntity>

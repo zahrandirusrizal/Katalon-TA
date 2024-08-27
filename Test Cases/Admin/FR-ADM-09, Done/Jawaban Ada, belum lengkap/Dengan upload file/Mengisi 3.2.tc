@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat melakukan proses fraud assesment dengan mengisi paket soal 3.2 dengan seluruh jawaban &quot;Ada, belum lengkap&quot; beserta file dari seluruh soal yang diperlukan</description>
+   <name>Mengisi 3.2</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>1a63b64a-5d6e-4d69-87a0-19a0e2740f46</testCaseGuid>
+</TestCaseEntity>

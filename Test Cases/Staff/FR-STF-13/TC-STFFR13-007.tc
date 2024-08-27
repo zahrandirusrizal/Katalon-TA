@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat mengubah jumlah data yang ditampilkan pada list riwayat login staff</description>
+   <name>TC-STFFR13-007</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>a50a6845-e83d-4fcb-a925-7c5dc3a1459a</testCaseGuid>
+</TestCaseEntity>

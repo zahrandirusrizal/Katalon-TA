@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat filter berdasarkan role &quot;Admin&quot;</description>
+   <name>TC-STFFR13-004</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>b5bb4014-1c64-4326-80a7-20478e108620</testCaseGuid>
+</TestCaseEntity>

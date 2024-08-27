@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer dapat melihat riwayat fraud assesment yang telah dilakukan dengan status sudah dinilai dan memiliki skor &quot;Bad&quot;</description>
+   <name>TC-REKFR06-003</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>799a8a94-ae88-4b55-a181-7acca6430604</testCaseGuid>
+</TestCaseEntity>

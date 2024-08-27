@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat melihat riwayat fraud assesment yang telah dilakukan dalam bentuk tabel</description>
+   <name>TC-ADMFR11-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>2425040f-299a-4621-974c-ea5afe05b773</testCaseGuid>
+</TestCaseEntity>

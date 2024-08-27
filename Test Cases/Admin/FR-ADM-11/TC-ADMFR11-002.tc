@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat berpindah halaman pada list riwayat fraud assesment</description>
+   <name>TC-ADMFR11-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>d75d8e93-dcc3-484c-980e-ef5a19e263f5</testCaseGuid>
+</TestCaseEntity>

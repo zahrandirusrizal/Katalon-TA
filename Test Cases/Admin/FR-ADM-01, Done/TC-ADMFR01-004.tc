@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Memastikan apabila register dengan No. Telp Pendaftar yang sama akan menampilkan pesan gagal</description>
+   <description>Memastikan apabila register dengan Email Pendaftar yang sama akan menampilkan pesan gagal</description>
    <name>TC-ADMFR01-004</name>
    <tag>negative</tag>
    <comment></comment>

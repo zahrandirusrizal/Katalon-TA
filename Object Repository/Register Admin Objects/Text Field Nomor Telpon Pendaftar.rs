@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -15,7 +14,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'phone']</value>
+         <value>//*[@type = 'number' and @name = 'phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0aacf1f0-cad5-4fd9-9d70-91436123878f</webElementGuid>
+      <webElementGuid>100da1ac-8ec2-41cd-93b2-0aa4db60b887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +34,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>73dabc19-2b06-4036-b227-40e4db5a9061</webElementGuid>
+      <webElementGuid>30e14f9f-d62a-4dba-b2c9-46e4cd88b398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full font-normal bg-transparent !outline-none placeholder:text-foreground-500 focus-visible:outline-none data-[has-start-content=true]:ps-1.5 data-[has-end-content=true]:pe-1.5 text-small h-full</value>
-      <webElementGuid>e6cf9919-11c7-4b20-b2e7-e52253da59b6</webElementGuid>
+      <webElementGuid>99ff54fc-95d6-4afc-9fe9-681e082bcdbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +50,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>No. Telp Pendaftar</value>
-      <webElementGuid>c589639e-7e6e-4118-87ff-f8ba6b2ce2b4</webElementGuid>
+      <webElementGuid>82cfa12a-2dee-400d-bc64-dd59698f570d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-aria6963158741-:rc:</value>
-      <webElementGuid>c2c4d261-32e6-48f0-afbc-b974585a3b2f</webElementGuid>
+      <webElementGuid>edef321d-420f-4847-b08d-e7c2f82da64b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,15 +66,15 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>react-aria6963158741-:rc: react-aria6963158741-:rd:</value>
-      <webElementGuid>9a7e8104-69b6-4d86-9e32-2af22d99453d</webElementGuid>
+      <webElementGuid>fba9a278-c40a-41a8-96e9-8d9888daee1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>3d835a7d-2f64-46ea-a1ae-24dc59779389</webElementGuid>
+      <value>number</value>
+      <webElementGuid>9eb39ac5-5922-432b-bfa8-0969254230c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -83,7 +82,7 @@
       <name>name</name>
       <type>Main</type>
       <value>phone</value>
-      <webElementGuid>49a13a94-da1e-43bd-8966-84ef27070372</webElementGuid>
+      <webElementGuid>a72837b0-6636-4efa-b260-165c6b4ac11d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-aria6963158741-:rc:&quot;)</value>
-      <webElementGuid>b64ab4b8-08a0-47b9-88a8-3c177d627701</webElementGuid>
+      <webElementGuid>b0e5280c-752d-420d-a7a9-040fbbca8442</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -99,7 +98,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='react-aria6963158741-:rc:']</value>
-      <webElementGuid>84b6a2c7-da6e-48a8-9556-eac6dfc5153c</webElementGuid>
+      <webElementGuid>4c6026d4-633d-46c6-9e22-f7835811a34c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>4dd96341-06c8-4961-88c1-cce99a06df74</webElementGuid>
+      <webElementGuid>0f4257be-d337-42d2-9817-b779171ce7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'react-aria6963158741-:rc:' and @type = 'text' and @name = 'phone']</value>
-      <webElementGuid>58e8e0d3-782d-480f-9048-8dec1436bf9c</webElementGuid>
+      <webElementGuid>7f6bcaf7-03be-4db0-8b4e-6e14e6031520</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

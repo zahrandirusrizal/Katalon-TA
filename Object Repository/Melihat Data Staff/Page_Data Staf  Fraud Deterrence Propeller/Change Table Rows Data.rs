@@ -6,12 +6,15 @@
    <elementGuidId>c41a9e75-0302-4706-b5ba-c20920d0bef7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@class = 'relative gap-3 w-full inline-flex flex-row items-center shadow-sm tap-highlight-transparent bg-default-100 data-[hover=true]:bg-default-200 group-data-[focus=true]:bg-default-100 h-8 min-h-8 px-2 rounded-small outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2' and @type = 'button' and @aria-haspopup = 'listbox']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[text()='First Text' or text()='Second Text' or text()='Third Text']</value>
+         <value>//div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5373b7ed-909e-41ab-87fc-d2dc5e79c840</webElementGuid>
+      <webElementGuid>1b57ed56-6fb3-43c2-83bc-b4e482c5ac84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +34,15 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>trigger</value>
-      <webElementGuid>77422a4f-3538-4f9d-b65f-ae6f53c71bd6</webElementGuid>
+      <webElementGuid>9a61ffb8-d48d-45af-a5b1-68c383b99ac0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>relative gap-3 w-full inline-flex flex-row items-center shadow-sm tap-highlight-transparent bg-default-100 data-[hover=true]:bg-default-200 group-data-[focus=true]:bg-default-100 h-8 min-h-8 px-2 rounded-small outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2</value>
-      <webElementGuid>c485d2a7-8f39-4d44-88a2-538ce7c9acc0</webElementGuid>
+      <webElementGuid>4911ac76-7f1c-43ec-b086-4b9c28d2bd88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d2d9efa-f466-430c-8d46-dae2c9383ca6</webElementGuid>
+      <webElementGuid>0a08e36f-219c-427f-a41e-fe1106014c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-aria4078313721-:r10:</value>
-      <webElementGuid>49fa5546-590d-48cf-af66-fc82f6409b91</webElementGuid>
+      <webElementGuid>85674f0b-0e64-492d-a49e-200642467cbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +66,15 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>react-aria4078313721-:r15: </value>
-      <webElementGuid>0fed921c-bdbe-4ccd-ab2d-e784f26f5d92</webElementGuid>
+      <webElementGuid>262368b3-f03e-4980-b98c-df86f8bf8121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>d996048e-b911-4b29-8fcd-69f5c9e6886f</webElementGuid>
+      <webElementGuid>8504ae9f-a219-48df-8e1d-0016f69cac5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +82,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ef865f4d-dce2-483c-99f1-c03ef3a532c3</webElementGuid>
+      <webElementGuid>d2a41a19-ffc3-4740-8c25-5e5a27f71972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>data-hover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ff8c4d6d-30a9-469a-9a85-e8aac6ae1dc8</webElementGuid>
+      <webElementGuid>01b4a9ae-a034-465b-b9e5-55c43ed6ac44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,15 +98,15 @@
       <name>data-focus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e9ccf5a4-bbb3-46c0-8d06-761aeec89b3f</webElementGuid>
+      <webElementGuid>03e941dd-2f24-4dee-be30-85e9595ac27e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>5,</value>
-      <webElementGuid>692d0e0f-df43-49f8-8992-734725d98082</webElementGuid>
+      <webElementGuid>693dc85d-75ba-4cca-9559-a993d8520014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +114,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-aria4078313721-:r10:&quot;)</value>
-      <webElementGuid>9acd1593-a9db-41e5-81ae-d38494e4124f</webElementGuid>
+      <webElementGuid>bff0e265-5309-4954-be3e-c5e1d2b8e205</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +122,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='react-aria4078313721-:r10:']</value>
-      <webElementGuid>f088e463-7dae-4d33-859b-513e2a9d0929</webElementGuid>
+      <webElementGuid>5c17361c-2c63-4ba4-8c7a-aef6e5f87b15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada data'])[1]/following::button[1]</value>
-      <webElementGuid>7f40838c-e5a2-4355-8c26-f425e10ea098</webElementGuid>
+      <webElementGuid>02ea6c41-e5db-4df0-9712-c050bae2a21c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>cb835523-e48b-4346-877e-9d77cf93e6f6</webElementGuid>
+      <webElementGuid>691a4285-6f08-49d3-840d-d41bace43aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'react-aria4078313721-:r10:' and (text() = '5,' or . = '5,')]</value>
-      <webElementGuid>3bf0407a-3ce4-42ae-b40e-61a0fec42a94</webElementGuid>
+      <webElementGuid>308bf2f5-f87b-4c24-a76c-975c965227e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,14 +7,17 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0af6b6e6-cdd7-4d30-865a-c178e0ab0881</webElementGuid>
+      <webElementGuid>9ab5f54f-96dd-4d19-81fd-185b39c39e5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-4 min-w-20 h-10 text-small gap-2 rounded-medium [&amp;>svg]:max-w-[theme(spacing.8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-success data-[hover=true]:opacity-hover text-white</value>
-      <webElementGuid>49aea130-38f8-4cff-9a27-42ba744d872a</webElementGuid>
+      <webElementGuid>5f8df653-d3d3-471b-87b7-bf4f67ef5d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5959a7af-cb48-4f62-9ff2-bcf40c646669</webElementGuid>
+      <webElementGuid>6b3d5879-3c81-471e-b852-5713a53f6b8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +50,7 @@
       <name>data-focus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c0a1ca98-a4ac-4998-9671-7ee2a9872027</webElementGuid>
+      <webElementGuid>17411879-97f6-4c44-8c10-5bc0ffa4d838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>014bc9c0-55f5-4988-b478-ce4ed508bc38</webElementGuid>
+      <webElementGuid>f2b5ae74-4dbf-43b4-8741-10ebc1d279a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col mt-5 gap-5&quot;]/div[@class=&quot;flex flex-row items-center justify-between&quot;]/button[@class=&quot;z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-4 min-w-20 h-10 text-small gap-2 rounded-medium [&amp;>svg]:max-w-[theme(spacing.8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-success data-[hover=true]:opacity-hover text-white&quot;]</value>
-      <webElementGuid>a0a53c3b-6c37-4a80-acdf-e023a2b56647</webElementGuid>
+      <webElementGuid>9494fab9-c9bc-46da-85e5-49d9ed5ab8e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
-      <webElementGuid>3548f9ec-45d6-4cc8-bde5-189172cb6b4a</webElementGuid>
+      <webElementGuid>bde8b821-99c4-47d3-98b4-41dd97e3ca57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya setuju dengan pernyataan diatas'])[1]/following::button[1]</value>
-      <webElementGuid>67489e05-a36f-423d-b2e3-cb5e1bb5a80d</webElementGuid>
+      <webElementGuid>2819fc06-df92-4ffe-b37d-329381dc9a46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[10]/following::button[1]</value>
-      <webElementGuid>69c4ab55-4c2f-480a-af2b-c812a0ce5608</webElementGuid>
+      <webElementGuid>46e0ac20-eb0d-4d3e-95b2-0868d0562e9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>093614fc-2aae-46ef-948f-c56b11bb8795</webElementGuid>
+      <webElementGuid>d563b101-31b3-4fdc-b783-d480d71dc08f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/button</value>
-      <webElementGuid>b85a91bf-ef5f-4332-af4a-10e8c1ba2398</webElementGuid>
+      <webElementGuid>0090b48c-6e7b-419a-a370-815fe5933f4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>91bdd6b4-92c7-4c53-8711-4e8d0fa022e3</webElementGuid>
+      <webElementGuid>e9aad101-3bf6-4733-8889-fcba0cb3d21d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

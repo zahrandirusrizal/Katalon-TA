@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat melihat detail nilai fraud assesment yang telah dilakukan</description>
+   <name>TC-ADMFR12-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>bafbfecd-5084-4300-9d3d-da7c191a201f</testCaseGuid>
+</TestCaseEntity>

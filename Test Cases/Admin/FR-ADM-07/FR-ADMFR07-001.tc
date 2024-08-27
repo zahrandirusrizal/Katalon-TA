@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat berpindah halaman pada list akun staff yang terdaftar</description>
+   <name>FR-ADMFR07-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>1bf00ad9-4e04-4d28-8c58-f6d3e93f6eb3</testCaseGuid>
+</TestCaseEntity>

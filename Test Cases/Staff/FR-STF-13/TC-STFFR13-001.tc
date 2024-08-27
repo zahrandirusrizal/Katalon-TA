@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat melihat riwayat &quot;Logged In&quot;</description>
+   <name>TC-STFFR13-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>ad422d4f-0641-4cc7-a020-7c540656b534</testCaseGuid>
+</TestCaseEntity>

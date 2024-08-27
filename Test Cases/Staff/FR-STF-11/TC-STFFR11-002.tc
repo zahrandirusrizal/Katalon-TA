@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat melihat detail nilai dari fraud detection yang telah dilakukan yang bernilai > -2.22 (Memanipulasi)</description>
+   <name>TC-STFFR11-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>ac3e20a5-f205-455c-b851-6147c76681dd</testCaseGuid>
+</TestCaseEntity>

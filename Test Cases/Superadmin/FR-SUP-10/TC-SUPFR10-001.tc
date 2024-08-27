@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Superadmin dapat logout dari akunnya</description>
+   <name>TC-SUPFR10-001</name>
+   <tag>POSITIVE</tag>
+   <comment></comment>
+   <testCaseGuid>a94a8540-7ee8-4142-80d6-bd2041fb0870</testCaseGuid>
+</TestCaseEntity>

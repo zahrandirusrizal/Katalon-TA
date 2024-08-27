@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat melakukan proses fraud assesment dengan mengisi paket soal 4.1 dengan seluruh jawaban &quot;Belum ada&quot; tanpa upload file</description>
+   <name>FR-ADM-027CQ</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>be8c6753-e650-489c-977d-2a79f39f91f1</testCaseGuid>
+</TestCaseEntity>

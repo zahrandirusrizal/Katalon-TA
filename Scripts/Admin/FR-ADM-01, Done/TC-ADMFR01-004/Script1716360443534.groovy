@@ -61,7 +61,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Register Admin Objects/
 
 WebUI.click(findTestObject('Object Repository/Register Admin Objects/Button Register'))
 
-WebUI.verifyElementNotVisible(findTestObject('Register Admin Objects/Notifikasi Toast/Toast Berhasil Register'))
+// Verify toast message content
+String toastMessageText = WebUI.getText(findTestObject('Object Repository/Register Admin Objects/Notifikasi Toast/Toast Berhasil Register'))
+
+String partialTextToVerify = 'Gagal'
+
+assert toastMessageText.contains(partialTextToVerify)
 
 WebUI.closeBrowser( // Generate random characters and append them to the name
     // Generate a random phone number

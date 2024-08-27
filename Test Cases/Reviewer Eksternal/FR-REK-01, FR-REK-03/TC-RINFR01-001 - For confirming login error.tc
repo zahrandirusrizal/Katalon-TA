@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reviewer harus melakukan login di halaman login untuk mendapatkan hak akses</description>
+   <name>TC-RINFR01-001 - For confirming login error</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>d2700475-3b75-441a-8ab1-e6803ff70ef7</testCaseGuid>
+</TestCaseEntity>

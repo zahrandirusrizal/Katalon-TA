@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer Eksternal dapat memberikan nilai &quot;Kurang Tepat&quot;</description>
+   <name>TC-REKFR05-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>b1bd599b-390b-47d2-8e7d-542b418c1fbb</testCaseGuid>
+</TestCaseEntity>

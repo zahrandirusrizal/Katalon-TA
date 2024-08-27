@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat mengubah baris per halaman pada list riwayat assesment</description>
+   <name>TC-ADMFR11-003</name>
+   <tag>psoitive</tag>
+   <comment></comment>
+   <testCaseGuid>a79d1e16-cc54-48db-8b75-7fd8845d90a2</testCaseGuid>
+</TestCaseEntity>

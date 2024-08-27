@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer  dapat melakukan edit proses fraud assesment yang telah dilakukan pada paket soal</description>
+   <name>TC-RINFR05-005</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>ad8d93db-0c1a-40ed-815a-4ea106f2068e</testCaseGuid>
+</TestCaseEntity>

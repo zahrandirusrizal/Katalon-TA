@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer dapat melihat berpindah halaman pada list riwayat fraud assesment tab &quot;Sudah Dinilai&quot;</description>
+   <name>TC-RINFR06-004</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>dfa22e1e-3a5a-4445-a16d-5f8bc0f58442</testCaseGuid>
+</TestCaseEntity>

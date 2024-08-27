@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reviewer harus melakukan login di halaman login untuk mendapatkan hak akses</description>
+   <name>TC-REKFR01-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>2b715fee-6071-4ccc-851d-c46244aec4a0</testCaseGuid>
+</TestCaseEntity>

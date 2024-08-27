@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat melihat list riwayat fraud detection dengan salah satu data bernilai > -2.22 (Memanipulasi)</description>
+   <name>TC-STFFR10-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>feba07ca-a02a-4109-8530-8250245b641c</testCaseGuid>
+</TestCaseEntity>

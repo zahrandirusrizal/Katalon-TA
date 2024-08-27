@@ -14,7 +14,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'institution_phone']</value>
+         <value>//*[@type = 'number' and @name = 'institution_phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>653b0c1f-7b66-4ab9-9371-4508ecb3657c</webElementGuid>
+      <webElementGuid>efea8e66-46eb-46ba-9d16-b794eb5e850f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>60bab583-8ecd-4bce-b586-972cddf2c36a</webElementGuid>
+      <webElementGuid>08f3281c-5791-45ef-ba4e-babb1ba69ba9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full font-normal bg-transparent !outline-none placeholder:text-foreground-500 focus-visible:outline-none data-[has-start-content=true]:ps-1.5 data-[has-end-content=true]:pe-1.5 text-small h-full is-filled</value>
-      <webElementGuid>a393b6a3-58c1-44e4-a1b8-5387f1ff8aae</webElementGuid>
+      <webElementGuid>e79ed4f3-3bc1-4d63-8888-7a5d39f1535e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>No. Telp Entitas</value>
-      <webElementGuid>2135fc6b-a608-4b60-a46d-2fbfd12ea7c2</webElementGuid>
+      <webElementGuid>6a8a26b8-18a7-403d-a01c-60d431ab3394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-aria6963158741-:r10:</value>
-      <webElementGuid>9fe66747-e8d9-46fb-b3d0-4dd61c8d5198</webElementGuid>
+      <webElementGuid>1367077d-e41a-4e65-9c31-3c8143c0fc83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,15 +66,15 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>react-aria6963158741-:r10: react-aria6963158741-:r11:</value>
-      <webElementGuid>ea303627-3c20-4ac5-8a21-940a4405fd4d</webElementGuid>
+      <webElementGuid>77f60185-0dec-4192-868f-307470a8cef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>991d446b-8662-413f-983c-b9f268916f15</webElementGuid>
+      <value>number</value>
+      <webElementGuid>f9094dfd-b785-4d71-b799-bb9bb41c1ec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d6c420b5-fb81-49a8-9765-28a4bd28f335</webElementGuid>
+      <webElementGuid>5a279d88-5c08-450d-b67b-5f64b1cc56fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
       <name>name</name>
       <type>Main</type>
       <value>institution_phone</value>
-      <webElementGuid>2892d739-a89e-4082-9f01-ab4342dca1ac</webElementGuid>
+      <webElementGuid>a223e239-3269-48c2-94cc-e96071dbebd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>data-filled-within</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>083216b6-1d07-4dd0-9878-0d20a36c5468</webElementGuid>
+      <webElementGuid>be10e83e-9b03-4eec-871e-9742402c1e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>data-filled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>89b8b3bc-4d92-4d70-8097-6b14faf52a6e</webElementGuid>
+      <webElementGuid>efd02001-b142-4e65-bced-3e33f2821f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-aria6963158741-:r10:&quot;)</value>
-      <webElementGuid>76b9840d-7cf5-4ce6-826f-c891ce3fd8a5</webElementGuid>
+      <webElementGuid>aeac1529-7b35-4328-a1d4-9aa94a6076ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='react-aria6963158741-:r10:']</value>
-      <webElementGuid>9b27432f-9c50-4c5f-8e59-33beaf7a9b22</webElementGuid>
+      <webElementGuid>e9064bd2-52bb-4784-97e0-f3d5f2db0de8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/div/div/div/input</value>
-      <webElementGuid>813a596e-41e2-43b3-ba9f-21e7ae9b8627</webElementGuid>
+      <webElementGuid>f7a633ac-05cd-43a4-8b11-e5b58c86290e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'react-aria6963158741-:r10:' and @type = 'text' and @name = 'institution_phone']</value>
-      <webElementGuid>0d9073c6-748d-405f-88ba-8c02b39411d4</webElementGuid>
+      <webElementGuid>e94f3f85-ebf4-4a3e-a16a-379c0329e037</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

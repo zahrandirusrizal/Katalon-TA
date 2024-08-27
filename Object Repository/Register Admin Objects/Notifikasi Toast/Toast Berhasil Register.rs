@@ -6,16 +6,16 @@
    <elementGuidId>a0b5cde4-1840-4528-ac6a-9e857afa482c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/section[1]/ol[1]/li[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>ol > li</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/section[1]/ol[1]/li[1]</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>9fe0c7b5-11de-476b-b901-24a1454b3376</webElementGuid>
+      <webElementGuid>5c774f1b-838a-4f2c-98bc-3d7b82f25596</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>974277e5-0a8b-4adb-904b-3d61487aa8ea</webElementGuid>
+      <webElementGuid>33b6a954-aa9a-4033-8f65-6ce7de645bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>aria-atomic</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>26cb7c03-0b6c-4c5b-a91f-1a62bb1d6af6</webElementGuid>
+      <webElementGuid>285519f8-bbc9-4963-b4c8-2364b2005db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>bd35f565-eb35-4ffd-86a5-a5cc1cb4c094</webElementGuid>
+      <webElementGuid>1fa0e00d-545b-4f4b-84dc-b650eb5ff517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0d073a43-ab14-48f4-803c-acc2d8683f5b</webElementGuid>
+      <webElementGuid>08fa5c70-6774-4c72-ad37-bbdd9237c667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>data-styled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0216e2bf-3b5e-40af-8f37-6b2b29bf43a2</webElementGuid>
+      <webElementGuid>ec1b655c-d599-4317-86b8-34178fd61187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>data-mounted</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>57acfcb2-8192-4375-a7de-5f739ac5a81d</webElementGuid>
+      <webElementGuid>4afdb14a-fa45-4321-9da9-31d4567f4006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>data-promise</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a1122f5e-ca46-4cf0-93c4-9f87eac0a2f7</webElementGuid>
+      <webElementGuid>9fc626e4-832a-486a-9a79-3a5ce52636b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>data-removed</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0675bd1d-3623-4964-9011-46cedb2caf77</webElementGuid>
+      <webElementGuid>33a74833-9466-4df3-a4cb-55a12a9fcb35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>data-visible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e409647d-56c0-407e-998f-269249030b1e</webElementGuid>
+      <webElementGuid>29fbf7e4-d68f-46c2-8f72-1739ebc76a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>data-y-position</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>be8e6164-0d88-41d0-9a01-f5d1da16b184</webElementGuid>
+      <webElementGuid>e306604a-7e30-4064-b6cd-d190c1fe2f98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>data-x-position</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>084415c2-e182-4b0f-8e37-5635db24fe5f</webElementGuid>
+      <webElementGuid>a8d82223-31ea-4d87-936b-6e2c02d968e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4786fb42-d138-4289-a332-b3b83bbb248e</webElementGuid>
+      <webElementGuid>7c989b5e-5f28-4524-bea2-19d9ed57b9b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>data-front</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c8c93b36-1c54-4497-bead-0aa11fcb2042</webElementGuid>
+      <webElementGuid>975fa16f-4c07-4930-9643-b001ff6b3519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@
       <name>data-swiping</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>69b5b43c-07a5-472e-9f72-89c923ae2174</webElementGuid>
+      <webElementGuid>1543d5c5-3106-4f24-ab8f-994a6f80dee2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>data-dismissible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b5398d98-279e-4151-89b3-00d492b9c26d</webElementGuid>
+      <webElementGuid>532a0eaa-1c73-496d-a0bb-05692804b5e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>success</value>
-      <webElementGuid>4e3f2223-9b38-4bc3-8f23-8b2ca2d7c621</webElementGuid>
+      <webElementGuid>4376beda-1a53-482d-bba6-d3c86267c928</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -163,7 +163,7 @@
       <name>data-swipe-out</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>feda966d-c620-463e-8d77-2266d8e0bda7</webElementGuid>
+      <webElementGuid>dcfd2743-96d9-4487-96c9-190ef8736bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -171,7 +171,7 @@
       <name>data-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6eb14f25-5a26-4fe0-bd10-da95cd2a2ba1</webElementGuid>
+      <webElementGuid>16b126be-2b6e-418c-b25f-eeb7a284abc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -179,7 +179,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Berhasil!Cek email fasdfasdf@yopmail.com untuk memverifikasi akun Anda</value>
-      <webElementGuid>4fd11548-ea28-454f-8bbc-bd647dac84be</webElementGuid>
+      <webElementGuid>2b8104ea-b9f8-4d03-81a2-568b119a0d2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -187,7 +187,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/section[1]/ol[1]/li[1]</value>
-      <webElementGuid>1ddba991-2bea-4bf2-910c-7ad7e11d96ee</webElementGuid>
+      <webElementGuid>6a782c73-5ed6-4aaa-90cf-6a6fb99d95c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -195,7 +195,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
-      <webElementGuid>16cc5587-ebff-463c-b4b4-00948703126d</webElementGuid>
+      <webElementGuid>0bce4ded-9184-4540-8a4c-a5717d4a2afa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -203,7 +203,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ol/li</value>
-      <webElementGuid>eff0b35c-8c6b-4382-bc43-582947b93ed2</webElementGuid>
+      <webElementGuid>b07e67d6-01f5-4aba-8ec5-d7947025e252</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -211,6 +211,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Berhasil!Cek email fasdfasdf@yopmail.com untuk memverifikasi akun Anda' or . = 'Berhasil!Cek email fasdfasdf@yopmail.com untuk memverifikasi akun Anda')]</value>
-      <webElementGuid>71ad8199-02fd-4233-874d-2b37b2f37ef4</webElementGuid>
+      <webElementGuid>71bd64e8-528d-4d29-bf67-a3b48cc17df2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

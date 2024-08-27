@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Superadmin dapat mengaktifkan akun Admin yang terdaftar pada aplikasi</description>
+   <name>TC-SUPFR07-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>1e0993fc-d659-4525-b7a2-af26fcaa0153</testCaseGuid>
+</TestCaseEntity>

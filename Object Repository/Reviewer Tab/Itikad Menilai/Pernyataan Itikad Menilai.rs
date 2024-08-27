@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pernyataan Itikad Menilai</name>
+   <tag></tag>
+   <elementGuidId>f2788633-1639-43fa-bad7-39cd26b19cd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':r1a:']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>af1389c9-b706-4ead-82ac-faa97f775a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger-500</value>
+      <webElementGuid>fd0f90c3-abc9-4600-863c-d312287491aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan ini menyatakan bahwa saya menilai assessment ini dengan itikad baik dan sepenuh hati. Saya berkomitmen untuk memberikan penilaian yang sejelas dan seakurat mungkin, tanpa menggunakan bantuan pihak lain atau materi yang tidak diizinkan. Kejujuran saya dalam menilai assessment ini adalah landasan untuk pengembangan diri saya.</value>
+      <webElementGuid>8ed1243a-690b-4cf6-a725-1c76091f402f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r1a:&quot;)/p[@class=&quot;text-danger-500&quot;]</value>
+      <webElementGuid>014c55bc-240a-4240-8ae8-ed1c81cdb21d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r1a:']/p</value>
+      <webElementGuid>1c96ff98-f7ae-43c7-9ae8-cc531164c318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[1]</value>
+      <webElementGuid>0de81ccb-0405-47ae-b11e-405312276647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya setuju dengan pernyataan diatas'])[1]/preceding::p[1]</value>
+      <webElementGuid>1f1f813d-7306-4526-98b4-d12906ba2e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Penilaian'])[1]/preceding::p[1]</value>
+      <webElementGuid>bcb69eaa-7973-4b95-9cde-ebfcda99d7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dengan ini menyatakan bahwa saya menilai assessment ini dengan itikad baik dan sepenuh hati. Saya berkomitmen untuk memberikan penilaian yang sejelas dan seakurat mungkin, tanpa menggunakan bantuan pihak lain atau materi yang tidak diizinkan. Kejujuran saya dalam menilai assessment ini adalah landasan untuk pengembangan diri saya.']/parent::*</value>
+      <webElementGuid>a500df87-d5dd-4bc5-8dd3-a685f00a9792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>e1f837fc-cb59-4e75-8f2a-bc9662f3fc2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dengan ini menyatakan bahwa saya menilai assessment ini dengan itikad baik dan sepenuh hati. Saya berkomitmen untuk memberikan penilaian yang sejelas dan seakurat mungkin, tanpa menggunakan bantuan pihak lain atau materi yang tidak diizinkan. Kejujuran saya dalam menilai assessment ini adalah landasan untuk pengembangan diri saya.' or . = 'Dengan ini menyatakan bahwa saya menilai assessment ini dengan itikad baik dan sepenuh hati. Saya berkomitmen untuk memberikan penilaian yang sejelas dan seakurat mungkin, tanpa menggunakan bantuan pihak lain atau materi yang tidak diizinkan. Kejujuran saya dalam menilai assessment ini adalah landasan untuk pengembangan diri saya.')]</value>
+      <webElementGuid>d6b06243-2ea6-4388-89bd-55cb829bc536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

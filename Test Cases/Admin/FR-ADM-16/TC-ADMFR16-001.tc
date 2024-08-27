@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin melihat detail nilai dari fraud detection yang telah dilakukan yang bernilai &lt; -2.22 (Tidak Memanipulasi)</description>
+   <name>TC-ADMFR16-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>c7a6b75d-b206-4202-9578-a7ef6e4780db</testCaseGuid>
+</TestCaseEntity>

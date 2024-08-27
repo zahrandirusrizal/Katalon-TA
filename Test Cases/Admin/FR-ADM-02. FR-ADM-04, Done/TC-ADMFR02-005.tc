@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Memastikan apabila login menggunakan username dan/atau password yang terdiri atas spasi saja, akan menampilkan pesan gagal</description>
+   <description>Memastikan apabila tidak mengisi username dan password dan mencoba untuk login akan menampilkan pesan gagal</description>
    <name>TC-ADMFR02-005</name>
    <tag>negative</tag>
    <comment></comment>
-   <testCaseGuid>c0f96988-e680-4d0c-8033-65db3cfe1e0a</testCaseGuid>
+   <testCaseGuid>3e629bc6-0cc2-41f3-a5e3-50fb279cb529</testCaseGuid>
 </TestCaseEntity>

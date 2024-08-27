@@ -13,17 +13,21 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[10]/following::label[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Saya setuju dengan pernyataan diatas' or . = 'Saya setuju dengan pernyataan diatas')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c665f886-56b7-480a-afcb-a701f12f4e3d</webElementGuid>
+      <webElementGuid>4794b5c8-ce7f-43f0-8ef3-7123dd860a07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2</value>
-      <webElementGuid>b8f2c909-5625-4ee6-abd5-74a8b8f2a782</webElementGuid>
+      <webElementGuid>94f3a3d3-c088-43a9-817d-2efa4c33a637</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Saya setuju dengan pernyataan diatas</value>
-      <webElementGuid>ada9434c-35e2-4397-94cc-04e896df46cc</webElementGuid>
+      <webElementGuid>9706c640-1792-4875-8dfd-a9f37d074c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col mt-5 gap-5&quot;]/div[@class=&quot;flex flex-row items-center justify-between&quot;]/label[@class=&quot;group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2&quot;]</value>
-      <webElementGuid>81de27a0-e4fb-4692-9aad-d10f19fe5ec2</webElementGuid>
+      <webElementGuid>d9f939d0-8cf7-41ae-b05c-f3892e62b6a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[10]/following::label[1]</value>
-      <webElementGuid>f426399c-0851-4ca2-9d9b-afa001b9dab8</webElementGuid>
+      <webElementGuid>2b20ddb3-55c9-4625-93df-f664181409c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[9]/following::label[1]</value>
-      <webElementGuid>895612c9-9fc7-4e4d-a35d-338589862759</webElementGuid>
+      <webElementGuid>b2decefb-f999-4089-a1e7-7c18cd58f879</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
-      <webElementGuid>cb08ba3e-2b05-47e5-b35e-2655b5308831</webElementGuid>
+      <webElementGuid>7e56cebf-439e-4959-bdb5-7b0f4dc450b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>d9891d1e-e248-47cf-9f13-5e861c7fbd66</webElementGuid>
+      <webElementGuid>62d5905a-85be-4d7b-a8b7-46aad40a8bd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +91,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Saya setuju dengan pernyataan diatas' or . = 'Saya setuju dengan pernyataan diatas')]</value>
-      <webElementGuid>afe27cef-e45d-41e3-bc71-0a5c824c1f97</webElementGuid>
+      <webElementGuid>6db0dbb5-ab56-4458-a09b-e6c32547fa14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

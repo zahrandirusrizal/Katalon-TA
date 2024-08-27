@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer dapat memberikan nilai &quot;Kurang Tepat&quot;</description>
+   <name>TC-RINFR05-003</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>a51a90ea-73d3-4eb6-88c5-32b6a5f9e644</testCaseGuid>
+</TestCaseEntity>

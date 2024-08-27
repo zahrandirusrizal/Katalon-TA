@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat melihat detail nilai fraud assesment yang telah dilakukan</description>
+   <name>TC-STFFR07-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>37ae7d46-3650-40cd-a72f-78c1c78f54cc</testCaseGuid>
+</TestCaseEntity>

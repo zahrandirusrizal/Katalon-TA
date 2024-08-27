@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer dapat mengubah baris per halaman yang ditampilkan pada list riwayat fraud assesment &quot;Sudah Dinilai&quot;</description>
+   <name>TC-REKFR06-005</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>516b9353-f946-4d94-b6cf-16657fdb4035</testCaseGuid>
+</TestCaseEntity>

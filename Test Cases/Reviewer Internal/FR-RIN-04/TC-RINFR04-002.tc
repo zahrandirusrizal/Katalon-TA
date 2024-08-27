@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan reviewer internal dapat berpindah halaman pada list riwayat fraud assesment</description>
+   <name>TC-RINFR04-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>fa7e8ee4-dbd0-4c2a-82ff-c759801939fc</testCaseGuid>
+</TestCaseEntity>

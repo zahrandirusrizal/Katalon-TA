@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan admin dapat melihat detail nilai fraud assesment yang telah dilakukan</description>
+   <name>TC-REKFR07-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>77017825-e8e5-406d-b8cd-fdeb99fd531e</testCaseGuid>
+</TestCaseEntity>

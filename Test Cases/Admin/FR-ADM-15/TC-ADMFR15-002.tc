@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melihat list riwayat fraud detection dengan salah satu data bernilai > -2.22 (Memanipulasi)</description>
+   <name>TC-ADMFR15-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>e1952d15-5d88-4624-a75b-fb795e5cd2f3</testCaseGuid>
+</TestCaseEntity>

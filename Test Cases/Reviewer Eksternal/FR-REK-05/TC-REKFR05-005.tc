@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer Eksternal dapat melakukan edit proses fraud assesment yang telah dilakukan pada paket soal</description>
+   <name>TC-REKFR05-005</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>b6282207-3e8e-4840-97f4-0336ac820797</testCaseGuid>
+</TestCaseEntity>

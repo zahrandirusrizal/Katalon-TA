@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat melakukan proses fraud assesment dengan seluruh pilihan jawaban &quot;Ada, dan sudah lengkap&quot; beserta file dari seluruh soal yang diperlukan</description>
+   <name>Mengisi 1.1</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>a3bfa487-7aed-4274-b018-07dd07ccf233</testCaseGuid>
+</TestCaseEntity>

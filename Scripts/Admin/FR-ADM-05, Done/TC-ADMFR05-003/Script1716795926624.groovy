@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Menambah Staff/Data Staff - Tambah
 
 WebUI.setText(findTestObject('Object Repository/Menambah Staff/Input Nama Staff atau Reviewer'), '          ')
 
-WebUI.setText(findTestObject('Object Repository/Menambah Staff/Input Nomor Telepon Staff atau Reviewer'), randomNomorTelponStaffReviewer)
+WebUI.setText(findTestObject('Menambah Staff/Input Nomor Telepon Staff atau Reviewer New'), randomNomorTelponStaffReviewer)
 
 WebUI.setText(findTestObject('Object Repository/Menambah Staff/Input Email Staff atau Reviewer'), randomEmailStaffReviewer)
 

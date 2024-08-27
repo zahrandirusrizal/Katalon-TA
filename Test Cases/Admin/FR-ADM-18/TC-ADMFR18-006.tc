@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Admin dapat filter berdasarkan role &quot;Reviewer&quot;</description>
+   <name>TC-ADMFR18-006</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>4f571357-04cf-4add-b5f2-fed8c7192aee</testCaseGuid>
+</TestCaseEntity>

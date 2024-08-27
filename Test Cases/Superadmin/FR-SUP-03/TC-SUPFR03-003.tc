@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Superadmin dapat mengubah baris per halaman yang ditampilkan pada list akun yang menunggu konfirmasi</description>
+   <name>TC-SUPFR03-003</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>1501d074-cf09-4875-92c7-f5154ee34784</testCaseGuid>
+</TestCaseEntity>

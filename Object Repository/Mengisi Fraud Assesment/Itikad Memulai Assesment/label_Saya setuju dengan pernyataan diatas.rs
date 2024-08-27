@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Saya setuju dengan pernyataan diatas</name>
+   <tag></tag>
+   <elementGuidId>27809b1e-b11a-4f5b-a966-dbe0f489b868</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>footer.flex-row.gap-2.px-6.py-4.flex.items-center.justify-between > label.group.relative.max-w-fit.inline-flex.items-center.justify-start.cursor-pointer.tap-highlight-transparent.p-2.-m-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id=':r19:']/footer/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a878ceb5-5eac-4d70-b6ef-7d01c0afca19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2</value>
+      <webElementGuid>3a486ff2-eddc-4864-b256-4dbc9829b313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hover</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dd6c121b-a350-464a-a798-2e4f8dba5c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focus</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f9629da4-60da-438f-ba47-ead98e99e542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya setuju dengan pernyataan diatas</value>
+      <webElementGuid>5ab88a68-51eb-4f86-806b-137136e5b50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r19:&quot;)/footer[@class=&quot;flex-row gap-2 px-6 py-4 flex items-center justify-between&quot;]/label[@class=&quot;group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2&quot;]</value>
+      <webElementGuid>d6bdd4e9-f93a-4664-b139-775882c1f1f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id=':r19:']/footer/label</value>
+      <webElementGuid>7c625781-1d20-4f42-a2a4-a6f77918655a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Assesment'])[1]/following::label[1]</value>
+      <webElementGuid>4231dded-9e9b-4236-a56d-959bfcebbb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::label[1]</value>
+      <webElementGuid>6e72c7b1-4e28-4696-a9f5-85249000a2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Assesment'])[1]/preceding::label[1]</value>
+      <webElementGuid>80d3c22f-607e-44f4-9a6c-fd3bc0ab0afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/label</value>
+      <webElementGuid>0e59cfcd-5631-48b0-8f54-4bf276cb04ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Saya setuju dengan pernyataan diatas' or . = 'Saya setuju dengan pernyataan diatas')]</value>
+      <webElementGuid>35fe0e77-cba9-48e7-abfa-908e7f607b0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

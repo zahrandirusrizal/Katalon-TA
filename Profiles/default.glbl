@@ -26,17 +26,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Dummy Account for Superadmin</description>
-      <initValue>'password'</initValue>
+      <initValue>'8SQVv/p9jVScEs4/2CZsLw=='</initValue>
       <name>superAdminPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Dummy Account for Staff</description>
-      <initValue>'bob_marley'</initValue>
+      <initValue>'staff_perusahaan'</initValue>
       <name>staffUsername</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Dummy Account for Staff</description>
-      <initValue>'WMj/tArCWnNJGjdg5bhwashtiYIwDOTlTEkMiIgqYKo='</initValue>
+      <initValue>'8SQVv/p9jVScEs4/2CZsLw=='</initValue>
       <name>staffPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,7 +46,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Dummy Account for Reviewer</description>
-      <initValue>'password'</initValue>
+      <initValue>'8SQVv/p9jVScEs4/2CZsLw=='</initValue>
       <name>reviewerPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -58,5 +58,20 @@
       <description></description>
       <initValue>'test.pdf'</initValue>
       <name>fileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'reviewer'</initValue>
+      <name>reviewerExternalUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'N8A2xVINzgxBXZsYdrqpxQ=='</initValue>
+      <name>reviewerExternalPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Report Template - Indikasi Tidak Curang.xlsx\r\n'</initValue>
+      <name>detectionFile1</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -9,15 +9,15 @@
          <key>CSS</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Mulai')]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = '/dashboard/fraud-assesment/create/3/3.2' and (text() = 'Mulai' or . = 'Mulai')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[3]/preceding::a[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b76fbd4f-bfd2-4a97-a51e-3171e515c1bc</webElementGuid>
+      <webElementGuid>f2099de0-5de2-4022-bf9d-bb3be97158e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-unit-3 min-w-unit-16 h-unit-8 text-tiny gap-unit-2 rounded-small [&amp;>svg]:max-w-[theme(spacing.unit-8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-primary text-primary-foreground data-[hover=true]:opacity-hover</value>
-      <webElementGuid>3544bd81-440b-4859-9c51-a8644a0abf2a</webElementGuid>
+      <webElementGuid>250a629c-02e2-4188-ab04-288217dddcc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fccc5038-b5ce-4e31-91a2-efbcdf5f506c</webElementGuid>
+      <webElementGuid>868c06ea-4155-45ba-8ccc-12c35e91fd0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1161b9d7-7242-496a-a260-4ebd4c29c547</webElementGuid>
+      <webElementGuid>293e855a-bdbb-4653-9ad7-5f8f418b977c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/dashboard/fraud-assesment/create/3/3.2</value>
-      <webElementGuid>a3149ecd-e5d5-4890-8754-103415e34a75</webElementGuid>
+      <webElementGuid>dd772e9b-706e-4344-a8ed-ac734a5db06c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>data-hover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>47d68364-c258-4415-b818-86ddd6a6619e</webElementGuid>
+      <webElementGuid>82d32d21-ae0f-4e22-bd7f-7732324a4e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>data-focus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c2da91bc-f2af-4f91-9585-dc8a56a2d8ef</webElementGuid>
+      <webElementGuid>2416e851-959f-408e-8ed5-d3eb3f6b1d64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mulai</value>
-      <webElementGuid>06301db8-7213-4201-b90b-75e9e129054d</webElementGuid>
+      <webElementGuid>1a16df27-1041-4752-b36e-b19aa96fd75c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_aaf875&quot;]/div[1]/div[@class=&quot;flex flex-col min-h-screen w-full&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-col w-full max-w-screen-xl mx-auto px-6 py-10 gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none p-3&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col relative overflow-hidden height-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-medium rounded-large transition-transform-background motion-reduce:transition-none&quot;]/div[3]/div[@class=&quot;relative flex w-full p-3 flex-auto flex-col place-content-inherit align-items-inherit h-auto break-words text-left overflow-y-auto subpixel-antialiased&quot;]/div[@class=&quot;flex items-center justify-between ml-4&quot;]/a[@class=&quot;z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-unit-3 min-w-unit-16 h-unit-8 text-tiny gap-unit-2 rounded-small [&amp;>svg]:max-w-[theme(spacing.unit-8)] data-[pressed=true]:scale-[0.97] transition-transform-colors-opacity motion-reduce:transition-none bg-primary text-primary-foreground data-[hover=true]:opacity-hover&quot;]</value>
-      <webElementGuid>eb525c3c-0414-489c-b9d9-c246302c7a09</webElementGuid>
+      <webElementGuid>bb2c4155-ae92-4a0f-a643-35e892c51e9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mulai')]</value>
-      <webElementGuid>00218caa-5660-4c77-9fee-e5b4f68467bd</webElementGuid>
+      <webElementGuid>09e12168-bbdb-456e-8895-d53d18e89ee9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[5]/following::a[1]</value>
-      <webElementGuid>1638aac0-0a3d-4aa8-bc02-409d7df98bcc</webElementGuid>
+      <webElementGuid>80f3b667-775f-4ec4-9f8f-7f8c43425ff7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[4]/following::a[2]</value>
-      <webElementGuid>76407313-bafa-4058-9bd5-7b0f2ca57fea</webElementGuid>
+      <webElementGuid>9f15d337-227d-442c-9102-3a727954800c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[2]/preceding::a[1]</value>
-      <webElementGuid>9efa41d3-e796-4f2e-a1ee-402ac4a94e1d</webElementGuid>
+      <webElementGuid>316ea515-824b-4816-bfee-f3a74703a3cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai'])[3]/preceding::a[1]</value>
-      <webElementGuid>819baf0b-81d9-4e81-a8df-3698187bed9b</webElementGuid>
+      <webElementGuid>075d5d43-666a-4b0f-b4a1-498cc3816233</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mulai']/parent::*</value>
-      <webElementGuid>8d7b5d24-d7d1-401a-8c41-0dbb433ade93</webElementGuid>
+      <webElementGuid>b436cde1-3198-4495-bd14-1a8269a0b6db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/dashboard/fraud-assesment/create/3/3.2')]</value>
-      <webElementGuid>c234f2b9-2eaf-47ea-8f1c-9cdc27f5f77f</webElementGuid>
+      <webElementGuid>1f7c8d02-347e-4161-9556-0e86af94ae63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,7 +154,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/a</value>
-      <webElementGuid>6b22185f-bf74-406c-84af-fab5189ca90e</webElementGuid>
+      <webElementGuid>35a56ddf-97de-47b7-9bf3-5d286d2d008d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -162,6 +162,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/dashboard/fraud-assesment/create/3/3.2' and (text() = 'Mulai' or . = 'Mulai')]</value>
-      <webElementGuid>cd5d1833-613b-4e0e-8970-35791c0af73b</webElementGuid>
+      <webElementGuid>38ca8c1a-7d5a-4c90-8213-8789871b4bf2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

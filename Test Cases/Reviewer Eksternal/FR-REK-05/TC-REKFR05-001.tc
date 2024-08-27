@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer dapat memberikan nilai &quot;Sudah Tepat&quot;</description>
+   <name>TC-REKFR05-001</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>0a82979a-b375-4bad-a18c-8ae80c199999</testCaseGuid>
+</TestCaseEntity>

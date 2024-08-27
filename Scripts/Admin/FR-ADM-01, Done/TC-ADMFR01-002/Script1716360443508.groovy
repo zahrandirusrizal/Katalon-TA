@@ -31,5 +31,5 @@ WebUI.verifyTextPresent('Email should not be empty', false)
 
 WebUI.verifyTextPresent('Username should not be empty', false)
 
-WebUI.verifyTextPresent('Password should not be empty', false)
+WebUI.verifyTextPresent('Password is required', false)
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan dapat login sebagai Admin</description>
+   <name>TC-ADMFR02-001 for login error</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>e6c9f54e-1ad4-4dbc-b5ff-4d38b77b72f4</testCaseGuid>
+</TestCaseEntity>

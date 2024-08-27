@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Reviewer Internal dapat memberikan nilai &quot;Sudah Tepat&quot;</description>
+   <name>Step 1 (Optional), memulai assesment baru</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>9511a3a9-ddab-43e0-af0d-38fc024f96dc</testCaseGuid>
+</TestCaseEntity>

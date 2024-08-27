@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Superadmin dapat berpindah halaman pada table list akun yang menunggu konfirmasi</description>
+   <name>TC-SUPFR03-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>72859fed-1c26-4a41-a641-bde8323dd4fc</testCaseGuid>
+</TestCaseEntity>

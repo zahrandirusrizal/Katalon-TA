@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox Persetujuan Pernyataan</name>
+   <tag></tag>
+   <elementGuidId>0ad15373-06d4-4689-a72f-9240b5125fd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.group.relative.max-w-fit.inline-flex.items-center.justify-start.cursor-pointer.tap-highlight-transparent.p-2.-m-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Saya setuju dengan pernyataan diatas' or . = 'Saya setuju dengan pernyataan diatas')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id=':r18:']/footer/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a416aeb3-d782-4a8d-af5c-2267287ed7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2</value>
+      <webElementGuid>c6f19e00-c5f6-411b-bbda-b67d54a705a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>26503c58-fb81-411f-b8df-80c219e1c6fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya setuju dengan pernyataan diatas</value>
+      <webElementGuid>fc3d2f60-80f2-4bdc-b911-2adcefaa69e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r18:&quot;)/footer[@class=&quot;flex-row gap-2 px-6 py-4 flex items-center justify-between&quot;]/label[@class=&quot;group relative max-w-fit inline-flex items-center justify-start cursor-pointer tap-highlight-transparent p-2 -m-2&quot;]</value>
+      <webElementGuid>0d1473a8-8d74-4a9e-ab46-c0d5c5c62648</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id=':r18:']/footer/label</value>
+      <webElementGuid>fa2c27f8-022b-4a0b-99fa-9ac05624daf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::label[1]</value>
+      <webElementGuid>2f2b3815-cad7-4560-9376-5744feac1263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Penilaian'])[1]/preceding::label[1]</value>
+      <webElementGuid>a26d4d0b-7f13-41ac-9bdf-86cb0e9cb1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/label</value>
+      <webElementGuid>63eaf332-9e63-4ac7-a4c6-0e9eec097886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Saya setuju dengan pernyataan diatas' or . = 'Saya setuju dengan pernyataan diatas')]</value>
+      <webElementGuid>177d2ddf-cf7e-489f-b8c9-62354730e8b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

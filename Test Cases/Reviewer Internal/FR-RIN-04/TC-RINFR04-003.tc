@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan reviewer internal dapat mengubah baris per halaman pada list riwayat assesment</description>
+   <name>TC-RINFR04-003</name>
+   <tag>psoitive</tag>
+   <comment></comment>
+   <testCaseGuid>d443b510-b64c-4ac4-81fa-16f6e1e21b18</testCaseGuid>
+</TestCaseEntity>

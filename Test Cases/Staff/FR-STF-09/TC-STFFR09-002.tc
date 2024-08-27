@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Staff dapat melakukan Fraud Detection dan menghasilkan Beneish M-Score > -2.22</description>
+   <name>TC-STFFR09-002</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>9420109a-3b1f-4fe5-8730-e03e482bafcf</testCaseGuid>
+</TestCaseEntity>

@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Login Objects/Button Masuk'))
 
 WebUI.delay(5)
 
-WebUI.verifyTextPresent('Selamat datang', false)
+WebUI.verifyTextNotPresent('Selamat datang', false)
 
 WebUI.closeBrowser()
 
